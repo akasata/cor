@@ -91,5 +91,18 @@ scale = sprite.scale
 
 * 第一引数：拡大縮小率（1.0が等倍です）
 
+## tap_down?メソッド
+
+ポインティングデバイス（マウスやタッチパネル）でタップされているかどうか取得するメソッドです。  
+
+```ruby
+if sprite.tap_down?
+  # ここに処理を記述します
+end
+```
+
+* 戻り値：boolean(true/false)
+
+
 ```ruby
 ```

@@ -30,3 +30,10 @@ start_scene "start"
 
 * 第一引数：開始するシーン名
 
+## ゲームクリア：game_clear
+
+ゲームクリアして、ゲームクリア画面に移行します。
+
+```ruby
+game_clear
+```
