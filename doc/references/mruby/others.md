@@ -5,7 +5,7 @@
 ## randメソッド
 
 ```ruby
-result1 = rand(100) # 0以上100未満の乱数
+result1 = rand(100) # 0以上100未満の整数の乱数
 result2 = rand # 0.0以上1.0未満の乱数
 ```
 

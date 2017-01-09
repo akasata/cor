@@ -6,6 +6,8 @@
 
 ## リファレンス
 
+### Rmakeの機能
+
 * [基本メソッド](rmake/basic.md)
 * [シーンの定義](rmake/scene.md)
 * スプライトについて
@@ -16,3 +18,14 @@
   * モーションについて（記述中）
 * [音楽と効果音について](rmake/sound.md)
 * [マウス操作について](rmake/pointer.md)
+
+## mrubyの基本機能
+
+* [配列について](mruby/array.md)
+* [ハッシュについて](mruby/hash.md)
+* [文字列について](mruby/string.md)
+* [その他（乱数など）](mruby/other.md)
+
+## Rmake Legacy（既存のRmakeの機能）
+
+* 
