@@ -85,7 +85,8 @@ preloadブロックでは、以下のメソッドを呼び出すことができ�
 scene 'start' do
   # preloadは素材などの読み込みを記述する場所です
   preload do 
-    # id: 10613の画像を読み込み、main_backという名前をつける
+    # id: 10613の画像を読み込み、bakuhatsuという名前をつける
+    # アニメーション1コマのサイズは(96px,96px)、16パターン
     image 'bakuhatsu', id: 10613, frame_size: [96, 96], frame_pattern: 16
   end
 end

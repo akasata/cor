@@ -102,11 +102,3 @@ end
 ```
 
 * 戻り値：boolean(true/false)
-
-## start_animationメソッド
-
-アニメーションを開始するメソッドです。
-
-```ruby
-sprite.start_animation('up')
-```

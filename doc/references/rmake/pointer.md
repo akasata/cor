@@ -25,12 +25,16 @@ end
 
 * mouse.down?と記載することもできます
 
-### 補足
+## スプライトがタップされているかどうか
 
 特定のスプライトがタップされているかどうか取得するには、スプライトのtap_down?メソッドを使うことができます。  
 
-
-
 ```ruby
+sprite = put_sprite 'chara' do
+  position 300, 300
+end
 
+if sprite.tap_down?
+  # ここに処理を記述します
+end
 ```

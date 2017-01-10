@@ -15,9 +15,10 @@
   * [テキストスプライトの定義](rmake/define_sprite.md)
   * [スプライトの配置と操作](rmake/sprite.md)
   * [テキストスプライトの配置と操作](rmake/text_sprite.md)
+  * [アニメーションについて](rmake/animation.md)
   * [モーションについて](rmake/motion.md)
 * [音楽と効果音について](rmake/sound.md)
-* [マウス操作について](rmake/pointer.md)
+* [ポインティングデバイス（マウスやタッチパネル）操作について](rmake/pointer.md)
 
 ## mrubyの基本機能
 
