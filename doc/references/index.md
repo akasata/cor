@@ -1,8 +1,10 @@
 # Code on Rmakeドキュメント
 
-## サンプル
+## サンプルについて
 
-* [サンプルコード](sample.md)
+サンプルは、以下のサイトでソースコード付きで公開されています。
+
+* [CoRサンプル集](https://rmake.jp/games/cor_examples)
 
 ## リファレンス
 
@@ -29,4 +31,5 @@
 
 ## Rmake Legacy（既存のRmakeの機能）
 
-* 
+Rmake Legacyとは、既存のRmakeのスクリプト関数を提供する機能です。
+実装が進み次第、情報を提供していく予定です。
