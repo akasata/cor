@@ -19,8 +19,8 @@
   * [テキストスプライトの配置と操作](rmake/text_sprite.md)
   * [アニメーションについて](rmake/animation.md)
   * [モーションについて](rmake/motion.md)
-  * [当たり判定について（作業中）](rmake/collision.md)
-  * [物理シミュレーションについて（作業中）](rmake/physics.md)
+  * [当たり判定について](rmake/collision.md)
+  * [物理シミュレーションについて](rmake/physics.md)
 * [音楽と効果音について](rmake/sound.md)
 * [ポインティングデバイス（マウスやタッチパネル）操作について](rmake/pointer.md)
 
