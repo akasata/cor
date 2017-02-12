@@ -12,6 +12,7 @@
 
 * [基本メソッド](rmake/basic.md)
 * [シーンの定義](rmake/scene.md)
+  * [シーンのupdateブロックでのみ使えるメソッド](rmake/scene_update.md)
 * スプライトについて
   * [スプライトの定義](rmake/define_sprite.md)
   * [テキストスプライトの定義](rmake/define_sprite.md)

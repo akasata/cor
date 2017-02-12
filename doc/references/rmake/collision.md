@@ -27,6 +27,8 @@ end
 
 衝突したスプライトのペアを取得するメソッドです。
 
+※ 本メソッドはcollisionブロックの中でのみ使えます。
+
 ```ruby
 collision(player_sprite, jiisan_layer) do
   # 取得できるスプライトの順番とcollisionメソッドに渡した引数の順番は対応付くことに注意してください
