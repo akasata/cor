@@ -35,6 +35,7 @@
 ## Rmake Legacy（既存のRmakeの機能）
 
 Rmake Legacyとは、既存のRmakeのスクリプト関数を提供する機能です。
-実装が進み次第、情報を提供していく予定です。
 
+* [実装済みの既存のスクリプト関数について](https://rmake.jp/document/cor_compatibility)
 * 既存のRmakeマップの読み込みと描画について
+  * [CoRサンプル - ジャンプアクションゲーム基本形](https://rmake.jp/games/30469/cor_example)
