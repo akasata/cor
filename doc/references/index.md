@@ -15,7 +15,7 @@
   * [シーンのupdateブロックでのみ使えるメソッド](rmake/scene_update.md)
 * スプライトについて
   * [スプライトの定義](rmake/define_sprite.md)
-  * [テキストスプライトの定義](rmake/define_sprite.md)
+  * [テキストスプライトの定義](rmake/define_text_sprite.md)
   * [スプライトの配置と操作](rmake/sprite.md)
   * [テキストスプライトの配置と操作](rmake/text_sprite.md)
   * [アニメーションについて](rmake/animation.md)
@@ -30,7 +30,7 @@
 * [配列について](mruby/array.md)
 * [ハッシュについて](mruby/hash.md)
 * [文字列について](mruby/string.md)
-* [その他（乱数など）](mruby/other.md)
+* [その他（乱数など）](mruby/others.md)
 
 ## Rmake Legacy（既存のRmakeの機能）
 
