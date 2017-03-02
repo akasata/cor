@@ -102,3 +102,24 @@ end
 ```
 
 * 戻り値：boolean(true/false)
+
+## src_rectメソッド
+
+スプライトに割り当てられている画像のどの部分を表示するか直接指定するメソッドです。  
+frame_indexメソッドでは対応しきれないケースに使ってください。
+
+```ruby
+# 元画像の(x, y, wifth, height) = (0, 32, 200, 200)の部分を表示する
+sprite.src_rect(0, 32, 200, 200)
+
+# 設定されている表示領域を取得する
+rect = sprite.src_rect
+```
+
+* 引数：整数値
+  * x座標
+  * y座標
+  * width（幅）
+  * height（高さ）
+* 戻り値：array（x, y, width, height）
+  * 設定されていない場合は、戻り値の配列の中身はすべてnilになります
