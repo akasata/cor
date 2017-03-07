@@ -123,3 +123,19 @@ rect = sprite.src_rect
   * height（高さ）
 * 戻り値：array（x, y, width, height）
   * 設定されていない場合は、戻り値の配列の中身はすべてnilになります
+
+## show_debug_bodyメソッド
+
+画面上にスプライトのデバッグ情報を表示します。  
+renderブロックに記述してください。
+
+```ruby
+render do
+  sprite.show_debug_body
+end
+```
+
+* 引数：なし
+* 表示されるデバッグ情報
+  * 当たり判定の領域（薄い緑色）
+  * 詳細情報を文字で表示
