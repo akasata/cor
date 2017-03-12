@@ -13,6 +13,7 @@
 * [基本メソッド](rmake/basic.md)
 * [シーンの定義](rmake/scene.md)
   * [シーンのupdateブロックでのみ使えるメソッド](rmake/scene_update.md)
+  * [シーンにおけるカメラについて](rmake/scene_camera.md)
 * スプライトについて
   * [スプライトの定義](rmake/define_sprite.md)
   * [テキストスプライトの定義](rmake/define_text_sprite.md)
@@ -22,6 +23,7 @@
   * [モーションについて](rmake/motion.md)
   * [当たり判定について](rmake/collision.md)
   * [物理シミュレーションについて](rmake/physics.md)
+  * [スプライトにおけるカメラについて](rmake/sprite_camera.md)
 * [音楽と効果音について](rmake/sound.md)
 * [ポインティングデバイス（マウスやタッチパネル）操作について](rmake/pointer.md)
 
