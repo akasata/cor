@@ -18,6 +18,7 @@
   * [スプライトの定義](rmake/define_sprite.md)
   * [テキストスプライトの定義](rmake/define_text_sprite.md)
   * [スプライトの配置と操作](rmake/sprite.md)
+  * [レイヤーについて](rmake/layer.md)
   * [テキストスプライトの配置と操作](rmake/text_sprite.md)
   * [アニメーションについて](rmake/animation.md)
   * [モーションについて](rmake/motion.md)
