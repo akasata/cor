@@ -25,6 +25,7 @@
   * [当たり判定について](rmake/collision.md)
   * [物理シミュレーションについて](rmake/physics.md)
   * [スプライトにおけるカメラについて](rmake/sprite_camera.md)
+  * [スプライトの親子関係について](rmake/sprite_parent_children.md)
 * [音楽と効果音について](rmake/sound.md)
 * [ポインティングデバイス（マウスやタッチパネル）操作について](rmake/pointer.md)
 
